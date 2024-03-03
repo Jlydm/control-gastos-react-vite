@@ -62,5 +62,5 @@
 
   <p>¡Explora, experimenta y contribuye al crecimiento de este emocionante proyecto! 😊</p>
 
-  <p>Puedes acceder a la aplicación directamente [aquí](inserta_tu_link).</p>
+  <p>Puedes acceder a la aplicación directamente https://control-de-gastos-con-react-y-vite.netlify.app/</p>
 </body>
